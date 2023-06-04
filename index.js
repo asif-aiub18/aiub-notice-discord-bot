@@ -45,4 +45,4 @@ function checkNewNotices(currentNotices) {
 }
 
 fetchNotices();
-setInterval(fetchNotices, 30000); // Fetch every 1 minute
+setInterval(fetchNotices, 30000); // Fetch every half minute
